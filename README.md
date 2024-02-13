@@ -37,7 +37,7 @@ https://github.com/Kandulanaveennaidu/-Product-Catalog
 ```
 - [ ] Enter into the directory
 ```
-cd FlowyCart-ecommerce-react-redux
+cd Product-Catalog
 ```
 - [ ] Install all dependencies
 ```
