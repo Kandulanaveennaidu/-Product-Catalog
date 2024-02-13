@@ -2,7 +2,6 @@
 
 FlowyCart - An E-commerce site build using React, Redux, Redux-toolkit, React-router-dom and Typescript
 
-- [Demo](https://flowy-cart.vercel.app/)
 
 ## Built with
 
@@ -34,7 +33,7 @@ FlowyCart - An E-commerce site build using React, Redux, Redux-toolkit, React-ro
 
 - [ ] Clone the Repository
 ```
-https://github.com/athulrajhere/FlowyCart-ecommerce-react-redux.git
+https://github.com/Kandulanaveennaidu/-Product-Catalog
 ```
 - [ ] Enter into the directory
 ```
